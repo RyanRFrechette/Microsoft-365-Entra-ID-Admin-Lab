@@ -382,19 +382,26 @@ This project is designed to support resume bullets around:
 
 ## Status
 
-**In progress.** Microsoft 365 admin center access, Entra admin center access, Microsoft Graph module installation, Graph tenant context, and baseline user reporting are documented. Next step is beginning user lifecycle management.
+**Portfolio-ready.** This Microsoft 365 / Entra ID Admin Lab is complete as a public portfolio project.
 
+Completed work includes:
 
+- Microsoft 365 admin center access
+- Microsoft Entra admin center access
+- Microsoft Graph PowerShell setup
+- Tenant context verification
+- Baseline user reporting
+- User onboarding
+- Group access management
+- License assignment and removal
+- Password reset and forced password change
+- Authentication methods review
+- Sign-in block and restore workflow
+- User offboarding
+- Final audit reporting
+- Six completed support-ticket writeups
+- Completed case study
+- Completed resume bullets
+- Inline README screenshots for hiring-manager review
 
-
-
-
-
-
-
-
-
-
-
-
-
+This lab is intentionally scoped for help desk, IT support, cloud support, and junior Microsoft 365 admin roles.
