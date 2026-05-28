@@ -119,6 +119,18 @@ Created a test Microsoft 365 user account with Microsoft Graph PowerShell and ve
 **What this proves:**  
 Shows practical cloud identity administration using PowerShell instead of only clicking through the admin center.
 
+### 7. Active Users List Showing New Test User
+
+<p>
+<img src="screenshots/users/02-active-users-list-alex-morgan.png" height="80%" width="80%" alt="Active Users List Showing New Test User"/>
+</p>
+
+**What was completed:**  
+Opened the Microsoft 365 admin center Active users page and confirmed the newly created test user appears in the tenant.
+
+**What this proves:**  
+Shows the ability to verify user provisioning from the admin center, not just from PowerShell.
+
 ---
 
 ## Planned Build Steps
@@ -215,4 +227,5 @@ This project is designed to support resume bullets around:
 ## Status
 
 **In progress.** Microsoft 365 admin center access, Entra admin center access, Microsoft Graph module installation, Graph tenant context, and baseline user reporting are documented. Next step is beginning user lifecycle management.
+
 
