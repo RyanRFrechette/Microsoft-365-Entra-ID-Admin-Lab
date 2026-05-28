@@ -65,7 +65,7 @@ try {
         $commitOut = git commit -m $Message 2>&1
         Write-Host "Commit : $commitOut"
 
-        $pushOut = git push origin master 2>&1
+        $pushOut = cmd /c "git push origin master 2>&1"
         Write-Host "Push   : $pushOut"
     }
 
@@ -74,3 +74,4 @@ try {
 } finally {
     Pop-Location
 }
+
