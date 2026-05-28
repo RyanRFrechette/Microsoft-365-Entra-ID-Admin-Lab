@@ -155,6 +155,18 @@ Opened the IT Support Team security group in the Microsoft Entra admin center an
 **What this proves:**  
 Shows the ability to verify group-based access from the admin center after managing membership with PowerShell.
 
+### 10. Microsoft 365 License Inventory Report
+
+<p>
+<img src="screenshots/powershell/04-license-inventory-report.png" height="80%" width="80%" alt="Microsoft 365 License Inventory Report"/>
+</p>
+
+**What was completed:**  
+Queried available Microsoft 365 subscription SKUs with Microsoft Graph PowerShell and exported the license inventory to a CSV report.
+
+**What this proves:**  
+Shows the ability to inspect tenant licensing before assigning app access to users.
+
 ---
 
 ## Planned Build Steps
@@ -251,6 +263,7 @@ This project is designed to support resume bullets around:
 ## Status
 
 **In progress.** Microsoft 365 admin center access, Entra admin center access, Microsoft Graph module installation, Graph tenant context, and baseline user reporting are documented. Next step is beginning user lifecycle management.
+
 
 
 
