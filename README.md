@@ -239,6 +239,18 @@ Restored sign-in for the Alex Morgan test user with Microsoft Graph PowerShell a
 **What this proves:**  
 Shows the full account access support cycle: suspend access when needed, then safely restore access after review.
 
+### 17. User Removed from Security Group During Offboarding
+
+<p>
+<img src="screenshots/groups/03-user-removed-from-security-group.png" height="80%" width="80%" alt="User Removed from Security Group During Offboarding"/>
+</p>
+
+**What was completed:**  
+Removed the Alex Morgan test user from the IT Support Team security group with Microsoft Graph PowerShell and verified the user was no longer a member.
+
+**What this proves:**  
+Shows a core offboarding workflow: removing group-based access when a user no longer needs access.
+
 ---
 
 ## Planned Build Steps
@@ -335,6 +347,7 @@ This project is designed to support resume bullets around:
 ## Status
 
 **In progress.** Microsoft 365 admin center access, Entra admin center access, Microsoft Graph module installation, Graph tenant context, and baseline user reporting are documented. Next step is beginning user lifecycle management.
+
 
 
 
