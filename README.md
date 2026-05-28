@@ -95,6 +95,18 @@ Connected to Microsoft Graph with the lab admin account and confirmed the active
 **What this proves:**  
 PowerShell is authenticated to the correct Microsoft 365 tenant and ready to run user, group, license, directory, and reporting commands against the lab environment.
 
+### 5. Baseline User Report Exported
+
+<p>
+<img src="screenshots/powershell/03-baseline-user-report.png" height="80%" width="80%" alt="Baseline Microsoft 365 user report exported with PowerShell"/>
+</p>
+
+**What was completed:**  
+Exported the current Microsoft 365 user list to `reports/baseline-users.csv` with Microsoft Graph PowerShell and displayed the report in the terminal.
+
+**What this proves:**  
+PowerShell can query tenant user data, export a reusable report, and create documentation artifacts that support real help desk and cloud admin workflows.
+
 ---
 
 ## Planned Build Steps
@@ -190,4 +202,4 @@ This project is designed to support resume bullets around:
 
 ## Status
 
-**In progress.** Microsoft 365 admin center access, Entra admin center access, Microsoft Graph module installation, and Graph tenant context are documented. Next step is exporting a baseline user report and beginning user lifecycle management.
+**In progress.** Microsoft 365 admin center access, Entra admin center access, Microsoft Graph module installation, Graph tenant context, and baseline user reporting are documented. Next step is beginning user lifecycle management.
