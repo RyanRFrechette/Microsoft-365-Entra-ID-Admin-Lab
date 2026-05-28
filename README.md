@@ -215,6 +215,18 @@ Opened the Microsoft Entra authentication methods area to review tenant sign-in 
 **What this proves:**  
 Shows awareness of identity security controls used in Microsoft 365 support, including MFA and authentication method management.
 
+### 15. User Sign-In Blocked with Microsoft Graph PowerShell
+
+<p>
+<img src="screenshots/security/02-block-sign-in-powershell.png" height="80%" width="80%" alt="User Sign-In Blocked with Microsoft Graph PowerShell"/>
+</p>
+
+**What was completed:**  
+Blocked sign-in for the Alex Morgan test user with Microsoft Graph PowerShell and verified the account was disabled.
+
+**What this proves:**  
+Shows a common account security support workflow: blocking user sign-in when access needs to be suspended.
+
 ---
 
 ## Planned Build Steps
@@ -311,6 +323,7 @@ This project is designed to support resume bullets around:
 ## Status
 
 **In progress.** Microsoft 365 admin center access, Entra admin center access, Microsoft Graph module installation, Graph tenant context, and baseline user reporting are documented. Next step is beginning user lifecycle management.
+
 
 
 
