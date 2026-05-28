@@ -263,6 +263,18 @@ Removed the Microsoft 365 Business Premium license from the Alex Morgan test use
 **What this proves:**  
 Shows a common offboarding workflow: reclaiming Microsoft 365 licensing when a user no longer needs access.
 
+### 19. Final Offboarding State Verified
+
+<p>
+<img src="screenshots/security/04-final-offboarding-state.png" height="80%" width="80%" alt="Final Offboarding State Verified"/>
+</p>
+
+**What was completed:**  
+Verified the Alex Morgan test user was blocked from sign-in, had zero assigned licenses, and was no longer a member of the IT Support Team security group.
+
+**What this proves:**  
+Shows an end-to-end Microsoft 365 offboarding workflow: suspend access, remove group membership, reclaim licensing, and verify final account state.
+
 ---
 
 ## Planned Build Steps
@@ -359,6 +371,7 @@ This project is designed to support resume bullets around:
 ## Status
 
 **In progress.** Microsoft 365 admin center access, Entra admin center access, Microsoft Graph module installation, Graph tenant context, and baseline user reporting are documented. Next step is beginning user lifecycle management.
+
 
 
 
