@@ -131,6 +131,18 @@ Opened the Microsoft 365 admin center Active users page and confirmed the newly 
 **What this proves:**  
 Shows the ability to verify user provisioning from the admin center, not just from PowerShell.
 
+### 8. Security Group Created and User Added with PowerShell
+
+<p>
+<img src="screenshots/groups/01-security-group-created-alex-added.png" height="80%" width="80%" alt="Security Group Created and User Added with PowerShell"/>
+</p>
+
+**What was completed:**  
+Created a security group named IT Support Team with Microsoft Graph PowerShell and added the Alex Morgan test user as a member.
+
+**What this proves:**  
+Shows group-based access administration, a core Microsoft 365 and Entra ID support workflow.
+
 ---
 
 ## Planned Build Steps
@@ -227,5 +239,6 @@ This project is designed to support resume bullets around:
 ## Status
 
 **In progress.** Microsoft 365 admin center access, Entra admin center access, Microsoft Graph module installation, Graph tenant context, and baseline user reporting are documented. Next step is beginning user lifecycle management.
+
 
 
