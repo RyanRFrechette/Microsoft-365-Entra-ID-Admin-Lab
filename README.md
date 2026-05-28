@@ -83,6 +83,18 @@ Installed Microsoft Graph PowerShell modules and confirmed installed module vers
 **What this proves:**  
 The local admin workstation is ready to connect to Microsoft Graph for Microsoft 365 and Entra ID automation, reporting, and repeatable support workflows.
 
+### 4. Microsoft Graph Tenant Context Confirmed
+
+<p>
+<img src="screenshots/powershell/02-graph-connected-context.png" height="80%" width="80%" alt="Microsoft Graph connected tenant context"/>
+</p>
+
+**What was completed:**  
+Connected to Microsoft Graph with the lab admin account and confirmed the active tenant context with `Get-MgContext` and organization name with `Get-MgOrganization`.
+
+**What this proves:**  
+PowerShell is authenticated to the correct Microsoft 365 tenant and ready to run user, group, license, directory, and reporting commands against the lab environment.
+
 ---
 
 ## Planned Build Steps
@@ -178,4 +190,4 @@ This project is designed to support resume bullets around:
 
 ## Status
 
-**In progress.** Phase 0 setup proof is complete, and Microsoft Graph PowerShell installation is documented. Next step is connecting to Microsoft Graph, confirming the tenant context, and exporting a baseline user report.
+**In progress.** Microsoft 365 admin center access, Entra admin center access, Microsoft Graph module installation, and Graph tenant context are documented. Next step is exporting a baseline user report and beginning user lifecycle management.
