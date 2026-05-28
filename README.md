@@ -107,6 +107,18 @@ Exported the current Microsoft 365 user list to `reports/baseline-users.csv` wit
 **What this proves:**  
 PowerShell can query tenant user data, export a reusable report, and create documentation artifacts that support real help desk and cloud admin workflows.
 
+### 6. Test User Created with Microsoft Graph PowerShell
+
+<p>
+<img src="screenshots/users/01-test-user-created-powershell.png" height="80%" width="80%" alt="Test User Created with Microsoft Graph PowerShell"/>
+</p>
+
+**What was completed:**  
+Created a test Microsoft 365 user account with Microsoft Graph PowerShell and verified the account details from the terminal.
+
+**What this proves:**  
+Shows practical cloud identity administration using PowerShell instead of only clicking through the admin center.
+
 ---
 
 ## Planned Build Steps
@@ -203,3 +215,4 @@ This project is designed to support resume bullets around:
 ## Status
 
 **In progress.** Microsoft 365 admin center access, Entra admin center access, Microsoft Graph module installation, Graph tenant context, and baseline user reporting are documented. Next step is beginning user lifecycle management.
+
