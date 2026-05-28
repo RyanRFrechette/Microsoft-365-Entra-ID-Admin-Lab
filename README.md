@@ -143,6 +143,18 @@ Created a security group named IT Support Team with Microsoft Graph PowerShell a
 **What this proves:**  
 Shows group-based access administration, a core Microsoft 365 and Entra ID support workflow.
 
+### 9. Entra Group Membership Verified in Admin Center
+
+<p>
+<img src="screenshots/groups/02-entra-group-membership-alex-morgan.png" height="80%" width="80%" alt="Entra Group Membership Verified in Admin Center"/>
+</p>
+
+**What was completed:**  
+Opened the IT Support Team security group in the Microsoft Entra admin center and confirmed Alex Morgan appears as a group member.
+
+**What this proves:**  
+Shows the ability to verify group-based access from the admin center after managing membership with PowerShell.
+
 ---
 
 ## Planned Build Steps
@@ -239,6 +251,7 @@ This project is designed to support resume bullets around:
 ## Status
 
 **In progress.** Microsoft 365 admin center access, Entra admin center access, Microsoft Graph module installation, Graph tenant context, and baseline user reporting are documented. Next step is beginning user lifecycle management.
+
 
 
 
