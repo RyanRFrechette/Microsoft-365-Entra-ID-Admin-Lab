@@ -251,6 +251,18 @@ Removed the Alex Morgan test user from the IT Support Team security group with M
 **What this proves:**  
 Shows a core offboarding workflow: removing group-based access when a user no longer needs access.
 
+### 18. Microsoft 365 License Removed During Offboarding
+
+<p>
+<img src="screenshots/users/06-license-removed-offboarding.png" height="80%" width="80%" alt="Microsoft 365 License Removed During Offboarding"/>
+</p>
+
+**What was completed:**  
+Removed the Microsoft 365 Business Premium license from the Alex Morgan test user with Microsoft Graph PowerShell and verified the user had zero assigned licenses.
+
+**What this proves:**  
+Shows a common offboarding workflow: reclaiming Microsoft 365 licensing when a user no longer needs access.
+
 ---
 
 ## Planned Build Steps
@@ -347,6 +359,7 @@ This project is designed to support resume bullets around:
 ## Status
 
 **In progress.** Microsoft 365 admin center access, Entra admin center access, Microsoft Graph module installation, Graph tenant context, and baseline user reporting are documented. Next step is beginning user lifecycle management.
+
 
 
 
