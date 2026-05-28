@@ -179,6 +179,18 @@ Assigned a Microsoft 365 Business Premium license to the Alex Morgan test user w
 **What this proves:**  
 Shows the ability to manage Microsoft 365 license assignment, a common help desk and cloud support task.
 
+### 12. License Assignment Verified in Microsoft 365 Admin Center
+
+<p>
+<img src="screenshots/users/04-license-assigned-admin-center.png" height="80%" width="80%" alt="License Assignment Verified in Microsoft 365 Admin Center"/>
+</p>
+
+**What was completed:**  
+Opened the Alex Morgan user profile in the Microsoft 365 admin center and confirmed the assigned Microsoft 365 Business Premium license.
+
+**What this proves:**  
+Shows the ability to verify license assignment from the admin center after managing the user with PowerShell.
+
 ---
 
 ## Planned Build Steps
@@ -275,6 +287,7 @@ This project is designed to support resume bullets around:
 ## Status
 
 **In progress.** Microsoft 365 admin center access, Entra admin center access, Microsoft Graph module installation, Graph tenant context, and baseline user reporting are documented. Next step is beginning user lifecycle management.
+
 
 
 
