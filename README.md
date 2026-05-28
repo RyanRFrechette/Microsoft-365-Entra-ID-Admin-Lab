@@ -59,6 +59,18 @@ Confirmed access to the Microsoft 365 admin center using the lab admin account f
 **What this proves:**  
 The tenant is active, the admin account works, and the project is ready for Microsoft 365 user, group, license, security, and PowerShell administration workflows.
 
+### 2. Microsoft Entra Admin Center Access
+
+<p>
+<img src="screenshots/setup/02-entra-admin-center-home.png" height="80%" width="80%" alt="Microsoft Entra admin center home"/>
+</p>
+
+**What was completed:**  
+Confirmed access to the Microsoft Entra admin center using the lab admin account for the Business Premium tenant.
+
+**What this proves:**  
+The tenant is visible in Entra, the admin account has Global Administrator access, and the lab is ready for identity, users, groups, authentication, security, and access-management workflows.
+
 ---
 
 ## Planned Build Steps
@@ -155,3 +167,4 @@ This project is designed to support resume bullets around:
 ## Status
 
 **In progress.** Phase 0 Microsoft 365 admin center access is confirmed and documented with screenshot proof. Next step is confirming Entra admin center access and adding the second setup screenshot.
+
