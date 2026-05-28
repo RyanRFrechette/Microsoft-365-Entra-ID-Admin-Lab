@@ -380,6 +380,25 @@ This project is designed to support resume bullets around:
 
 ---
 
+---
+
+## AI-Assisted Build Workflow
+
+This project was completed in a focused AI-assisted build sprint.
+
+I used ChatGPT as a planning, troubleshooting, documentation, and command-generation partner while executing the work directly through PowerShell, Microsoft Graph, the Microsoft 365 admin center, the Microsoft Entra admin center, Git, and GitHub.
+
+This workflow demonstrates my ability to use AI responsibly to accelerate real IT support work while still understanding, verifying, documenting, and committing each step myself.
+
+Key AI-assisted tasks included:
+
+- Planning the lab scope and avoiding unnecessary feature creep
+- Generating and troubleshooting PowerShell / Microsoft Graph commands
+- Creating repeatable screenshot and GitHub documentation workflows
+- Converting technical work into support-ticket documentation
+- Writing a hiring-manager-friendly README, case study, and resume bullets
+- Verifying that the final repo stayed honest and did not overclaim advanced enterprise security work
+
 ## Status
 
 **Portfolio-ready.** This Microsoft 365 / Entra ID Admin Lab is complete as a public portfolio project.
