@@ -203,6 +203,18 @@ Reset the Alex Morgan test user's password with Microsoft Graph PowerShell and r
 **What this proves:**  
 Shows a common help desk account-support workflow: resetting a user password while enforcing secure next-login password change.
 
+### 14. Authentication Methods Reviewed in Entra Admin Center
+
+<p>
+<img src="screenshots/security/01-authentication-methods-overview.png" height="80%" width="80%" alt="Authentication Methods Reviewed in Entra Admin Center"/>
+</p>
+
+**What was completed:**  
+Opened the Microsoft Entra authentication methods area to review tenant sign-in and MFA-related configuration options.
+
+**What this proves:**  
+Shows awareness of identity security controls used in Microsoft 365 support, including MFA and authentication method management.
+
 ---
 
 ## Planned Build Steps
@@ -299,6 +311,7 @@ This project is designed to support resume bullets around:
 ## Status
 
 **In progress.** Microsoft 365 admin center access, Entra admin center access, Microsoft Graph module installation, Graph tenant context, and baseline user reporting are documented. Next step is beginning user lifecycle management.
+
 
 
 
