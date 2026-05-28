@@ -275,6 +275,18 @@ Verified the Alex Morgan test user was blocked from sign-in, had zero assigned l
 **What this proves:**  
 Shows an end-to-end Microsoft 365 offboarding workflow: suspend access, remove group membership, reclaim licensing, and verify final account state.
 
+### 20. Final User and Group Audit Report Exported
+
+<p>
+<img src="screenshots/powershell/05-final-user-group-report.png" height="80%" width="80%" alt="Final User and Group Audit Report Exported"/>
+</p>
+
+**What was completed:**  
+Exported a final Microsoft 365 user report and verified the IT Support Team group membership count after offboarding.
+
+**What this proves:**  
+Shows the ability to produce final audit documentation after completing user lifecycle and access-management work.
+
 ---
 
 ## Planned Build Steps
@@ -371,6 +383,7 @@ This project is designed to support resume bullets around:
 ## Status
 
 **In progress.** Microsoft 365 admin center access, Entra admin center access, Microsoft Graph module installation, Graph tenant context, and baseline user reporting are documented. Next step is beginning user lifecycle management.
+
 
 
 
