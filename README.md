@@ -191,6 +191,18 @@ Opened the Alex Morgan user profile in the Microsoft 365 admin center and confir
 **What this proves:**  
 Shows the ability to verify license assignment from the admin center after managing the user with PowerShell.
 
+### 13. Password Reset with Forced Change at Next Sign-In
+
+<p>
+<img src="screenshots/users/05-password-reset-force-change.png" height="80%" width="80%" alt="Password Reset with Forced Change at Next Sign-In"/>
+</p>
+
+**What was completed:**  
+Reset the Alex Morgan test user's password with Microsoft Graph PowerShell and required the user to change it at next sign-in.
+
+**What this proves:**  
+Shows a common help desk account-support workflow: resetting a user password while enforcing secure next-login password change.
+
 ---
 
 ## Planned Build Steps
@@ -287,6 +299,7 @@ This project is designed to support resume bullets around:
 ## Status
 
 **In progress.** Microsoft 365 admin center access, Entra admin center access, Microsoft Graph module installation, Graph tenant context, and baseline user reporting are documented. Next step is beginning user lifecycle management.
+
 
 
 
