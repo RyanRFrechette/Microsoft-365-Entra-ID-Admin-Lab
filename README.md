@@ -167,6 +167,18 @@ Queried available Microsoft 365 subscription SKUs with Microsoft Graph PowerShel
 **What this proves:**  
 Shows the ability to inspect tenant licensing before assigning app access to users.
 
+### 11. Microsoft 365 License Assigned to Test User
+
+<p>
+<img src="screenshots/users/03-license-assigned-alex-morgan.png" height="80%" width="80%" alt="Microsoft 365 License Assigned to Test User"/>
+</p>
+
+**What was completed:**  
+Assigned a Microsoft 365 Business Premium license to the Alex Morgan test user with Microsoft Graph PowerShell and verified the assigned license count.
+
+**What this proves:**  
+Shows the ability to manage Microsoft 365 license assignment, a common help desk and cloud support task.
+
 ---
 
 ## Planned Build Steps
@@ -263,6 +275,7 @@ This project is designed to support resume bullets around:
 ## Status
 
 **In progress.** Microsoft 365 admin center access, Entra admin center access, Microsoft Graph module installation, Graph tenant context, and baseline user reporting are documented. Next step is beginning user lifecycle management.
+
 
 
 
