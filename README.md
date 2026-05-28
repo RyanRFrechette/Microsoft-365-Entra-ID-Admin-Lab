@@ -227,6 +227,18 @@ Blocked sign-in for the Alex Morgan test user with Microsoft Graph PowerShell an
 **What this proves:**  
 Shows a common account security support workflow: blocking user sign-in when access needs to be suspended.
 
+### 16. User Sign-In Restored with Microsoft Graph PowerShell
+
+<p>
+<img src="screenshots/security/03-restore-sign-in-powershell.png" height="80%" width="80%" alt="User Sign-In Restored with Microsoft Graph PowerShell"/>
+</p>
+
+**What was completed:**  
+Restored sign-in for the Alex Morgan test user with Microsoft Graph PowerShell and verified the account was enabled again.
+
+**What this proves:**  
+Shows the full account access support cycle: suspend access when needed, then safely restore access after review.
+
 ---
 
 ## Planned Build Steps
@@ -323,6 +335,7 @@ This project is designed to support resume bullets around:
 ## Status
 
 **In progress.** Microsoft 365 admin center access, Entra admin center access, Microsoft Graph module installation, Graph tenant context, and baseline user reporting are documented. Next step is beginning user lifecycle management.
+
 
 
 
