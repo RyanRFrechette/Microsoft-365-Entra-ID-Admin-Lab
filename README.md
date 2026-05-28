@@ -71,6 +71,18 @@ Confirmed access to the Microsoft Entra admin center using the lab admin account
 **What this proves:**  
 The tenant is visible in Entra, the admin account has Global Administrator access, and the lab is ready for identity, users, groups, authentication, security, and access-management workflows.
 
+### 3. Microsoft Graph PowerShell Module Installed
+
+<p>
+<img src="screenshots/powershell/01-graph-module-installed.png" height="80%" width="80%" alt="Microsoft Graph PowerShell module installed"/>
+</p>
+
+**What was completed:**  
+Installed Microsoft Graph PowerShell modules and confirmed installed module versions from PowerShell.
+
+**What this proves:**  
+The local admin workstation is ready to connect to Microsoft Graph for Microsoft 365 and Entra ID automation, reporting, and repeatable support workflows.
+
 ---
 
 ## Planned Build Steps
@@ -166,5 +178,4 @@ This project is designed to support resume bullets around:
 
 ## Status
 
-**In progress.** Phase 0 Microsoft 365 admin center access is confirmed and documented with screenshot proof. Next step is confirming Entra admin center access and adding the second setup screenshot.
-
+**In progress.** Phase 0 setup proof is complete, and Microsoft Graph PowerShell installation is documented. Next step is connecting to Microsoft Graph, confirming the tenant context, and exporting a baseline user report.
